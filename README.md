@@ -1,4 +1,4 @@
-# OOP RPG Combat Python
+# python-oop-practice-rpg
 
 A simple turn-based RPG combat system built with Python, focused on practicing Object-Oriented Programming concepts.
 
